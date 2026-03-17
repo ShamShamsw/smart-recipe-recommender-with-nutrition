@@ -1,0 +1,271 @@
+[
+  {
+    "recipe_id": "rcp_001",
+    "name": "Mediterranean Chickpea Bowl",
+    "cuisine": "Mediterranean",
+    "meal_type": "lunch",
+    "ingredients": [
+      "chickpeas",
+      "cucumber",
+      "tomato",
+      "olive oil",
+      "lemon",
+      "feta",
+      "spinach"
+    ],
+    "prep_minutes": 15,
+    "nutrition": {
+      "calories": 520,
+      "protein_g": 22,
+      "carbs_g": 54,
+      "fat_g": 24,
+      "fiber_g": 13
+    }
+  },
+  {
+    "recipe_id": "rcp_002",
+    "name": "High Protein Egg Fried Rice",
+    "cuisine": "Asian Fusion",
+    "meal_type": "dinner",
+    "ingredients": [
+      "brown rice",
+      "eggs",
+      "peas",
+      "carrot",
+      "soy sauce",
+      "sesame oil",
+      "green onion"
+    ],
+    "prep_minutes": 20,
+    "nutrition": {
+      "calories": 590,
+      "protein_g": 28,
+      "carbs_g": 63,
+      "fat_g": 21,
+      "fiber_g": 9
+    }
+  },
+  {
+    "recipe_id": "rcp_003",
+    "name": "Greek Yogurt Berry Parfait",
+    "cuisine": "American",
+    "meal_type": "breakfast",
+    "ingredients": [
+      "greek yogurt",
+      "berries",
+      "oats",
+      "chia seeds",
+      "honey",
+      "almonds"
+    ],
+    "prep_minutes": 10,
+    "nutrition": {
+      "calories": 430,
+      "protein_g": 30,
+      "carbs_g": 42,
+      "fat_g": 14,
+      "fiber_g": 10
+    }
+  },
+  {
+    "recipe_id": "rcp_004",
+    "name": "Turkey Avocado Wrap",
+    "cuisine": "American",
+    "meal_type": "lunch",
+    "ingredients": [
+      "whole wheat tortilla",
+      "turkey breast",
+      "avocado",
+      "lettuce",
+      "tomato",
+      "mustard"
+    ],
+    "prep_minutes": 12,
+    "nutrition": {
+      "calories": 510,
+      "protein_g": 35,
+      "carbs_g": 38,
+      "fat_g": 23,
+      "fiber_g": 8
+    }
+  },
+  {
+    "recipe_id": "rcp_005",
+    "name": "Lentil Tomato Soup",
+    "cuisine": "Comfort",
+    "meal_type": "dinner",
+    "ingredients": [
+      "lentils",
+      "tomato",
+      "onion",
+      "garlic",
+      "carrot",
+      "celery",
+      "vegetable broth"
+    ],
+    "prep_minutes": 35,
+    "nutrition": {
+      "calories": 460,
+      "protein_g": 24,
+      "carbs_g": 66,
+      "fat_g": 8,
+      "fiber_g": 18
+    }
+  },
+  {
+    "recipe_id": "rcp_006",
+    "name": "Salmon Quinoa Plate",
+    "cuisine": "Nordic",
+    "meal_type": "dinner",
+    "ingredients": [
+      "salmon",
+      "quinoa",
+      "broccoli",
+      "olive oil",
+      "lemon",
+      "garlic"
+    ],
+    "prep_minutes": 30,
+    "nutrition": {
+      "calories": 640,
+      "protein_g": 42,
+      "carbs_g": 45,
+      "fat_g": 30,
+      "fiber_g": 8
+    }
+  },
+  {
+    "recipe_id": "rcp_007",
+    "name": "Tofu Veggie Stir Fry",
+    "cuisine": "Asian Fusion",
+    "meal_type": "dinner",
+    "ingredients": [
+      "tofu",
+      "broccoli",
+      "bell pepper",
+      "soy sauce",
+      "ginger",
+      "garlic",
+      "brown rice"
+    ],
+    "prep_minutes": 25,
+    "nutrition": {
+      "calories": 560,
+      "protein_g": 29,
+      "carbs_g": 58,
+      "fat_g": 20,
+      "fiber_g": 11
+    }
+  },
+  {
+    "recipe_id": "rcp_008",
+    "name": "Overnight Oats Protein Jar",
+    "cuisine": "American",
+    "meal_type": "breakfast",
+    "ingredients": [
+      "oats",
+      "milk",
+      "greek yogurt",
+      "banana",
+      "chia seeds",
+      "peanut butter"
+    ],
+    "prep_minutes": 8,
+    "nutrition": {
+      "calories": 520,
+      "protein_g": 27,
+      "carbs_g": 55,
+      "fat_g": 20,
+      "fiber_g": 10
+    }
+  },
+  {
+    "recipe_id": "rcp_009",
+    "name": "Bean Burrito Bowl",
+    "cuisine": "Mexican",
+    "meal_type": "lunch",
+    "ingredients": [
+      "black beans",
+      "brown rice",
+      "corn",
+      "tomato",
+      "avocado",
+      "lime",
+      "cilantro"
+    ],
+    "prep_minutes": 18,
+    "nutrition": {
+      "calories": 610,
+      "protein_g": 20,
+      "carbs_g": 85,
+      "fat_g": 21,
+      "fiber_g": 17
+    }
+  },
+  {
+    "recipe_id": "rcp_010",
+    "name": "Spinach Mushroom Omelet",
+    "cuisine": "French Inspired",
+    "meal_type": "breakfast",
+    "ingredients": [
+      "eggs",
+      "spinach",
+      "mushroom",
+      "olive oil",
+      "onion",
+      "feta"
+    ],
+    "prep_minutes": 14,
+    "nutrition": {
+      "calories": 410,
+      "protein_g": 31,
+      "carbs_g": 11,
+      "fat_g": 27,
+      "fiber_g": 4
+    }
+  },
+  {
+    "recipe_id": "rcp_011",
+    "name": "Chicken Sweet Potato Skillet",
+    "cuisine": "American",
+    "meal_type": "dinner",
+    "ingredients": [
+      "chicken breast",
+      "sweet potato",
+      "spinach",
+      "garlic",
+      "paprika",
+      "olive oil"
+    ],
+    "prep_minutes": 28,
+    "nutrition": {
+      "calories": 590,
+      "protein_g": 44,
+      "carbs_g": 48,
+      "fat_g": 22,
+      "fiber_g": 7
+    }
+  },
+  {
+    "recipe_id": "rcp_012",
+    "name": "Pesto Pasta With Peas",
+    "cuisine": "Italian",
+    "meal_type": "lunch",
+    "ingredients": [
+      "whole wheat pasta",
+      "peas",
+      "basil pesto",
+      "parmesan",
+      "garlic",
+      "olive oil"
+    ],
+    "prep_minutes": 22,
+    "nutrition": {
+      "calories": 630,
+      "protein_g": 22,
+      "carbs_g": 77,
+      "fat_g": 26,
+      "fiber_g": 9
+    }
+  }
+]
